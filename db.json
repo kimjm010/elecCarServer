@@ -1,7 +1,6 @@
 {
     "data": [
         {
-            "id":1,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "LH강남힐스테이트",
@@ -11,7 +10,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":2,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "LH서울지사",
@@ -21,7 +19,6 @@
             "carType": "SM3cle Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":3,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "가람아파트",
@@ -31,7 +28,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":4,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "강남구청 공영주차장",
@@ -41,7 +37,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":5,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "강남데시앙파크",
@@ -51,7 +46,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":6,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "강남데시앙포레",
@@ -61,7 +55,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":7,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "강남세브란스 병원",
@@ -71,7 +64,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":8,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "강남아이파크",
@@ -81,7 +73,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":9,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "강남한신휴 플러스8단지",
@@ -91,7 +82,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":10,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "강남한신휴플러스6단지 아파트",
@@ -110,7 +100,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":11,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "개나리래미안 아파트",
@@ -120,7 +109,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":12,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "개나리푸르지오",
@@ -130,7 +118,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":13,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "개포7차 우성 아파트",
@@ -140,7 +127,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":14,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "공무원연금공단 서울지부",
@@ -150,7 +136,6 @@
             "carType": "SM3 Z.E,테슬라"
         },
         {
-            "id":15,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "금호어울림 아파트",
@@ -160,7 +145,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":16,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "대치2문화센터 공영주차장",
@@ -170,7 +154,6 @@
             "carType": "SM3 Z.E,테슬라"
         },
         {
-            "id":17,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "대치현대 아파트",
@@ -180,7 +163,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":18,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "도곡대림아크로빌",
@@ -190,7 +172,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":19,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "도곡렉슬 아파트",
@@ -200,7 +181,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":20,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "도성 아파트",
@@ -210,7 +190,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":21,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "라테라스삼성",
@@ -220,7 +199,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":22,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "래미안강남힐즈",
@@ -230,7 +208,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":23,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "래미안그레이튼",
@@ -240,7 +217,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":24,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "래미안대치팰리스",
@@ -250,7 +226,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":25,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "래미안대치하이스턴 아파트",
@@ -260,7 +235,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":26,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "래미안삼성1차",
@@ -270,7 +244,6 @@
             "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV"
         },
         {
-            "id":27,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "삼성동 에스케이뷰 아파트",
@@ -280,7 +253,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":28,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "삼성동한일아파트",
@@ -290,7 +262,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":29,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "삼성동현대아파트",
@@ -300,7 +271,6 @@
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
-            "id":30,
             "metro": "서울특별시",
             "city": "강남구",
             "stnPlace": "삼성동힐스테이트2단지",
