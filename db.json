@@ -129,15 +129,6 @@
         {
             "metro": "서울특별시",
             "city": "강남구",
-            "stnPlace": "공무원연금공단 서울지부",
-            "stnAddr": "서울특별시 강남구 역삼동 701",
-            "rapidCnt": 1,
-            "slowCnt": 0,
-            "carType": "SM3 Z.E,테슬라"
-        },
-        {
-            "metro": "서울특별시",
-            "city": "강남구",
             "stnPlace": "금호어울림 아파트",
             "stnAddr": "서울특별시 강남구 삼성동 봉은사로111길 25",
             "rapidCnt": 0,
@@ -255,15 +246,6 @@
         {
             "metro": "서울특별시",
             "city": "강남구",
-            "stnPlace": "삼성동한일아파트",
-            "stnAddr": "서울특별시 강남구 삼성동 48",
-            "rapidCnt": 0,
-            "slowCnt": 1,
-            "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
-        },
-        {
-            "metro": "서울특별시",
-            "city": "강남구",
             "stnPlace": "삼성동현대아파트",
             "stnAddr": "서울특별시 강남구 삼성동 학동로64길 14",
             "rapidCnt": 0,
@@ -345,15 +327,6 @@
         {
             "metro": "서울특별시",
             "city": "강남구",
-            "stnPlace": "세곡푸르지오아파트",
-            "stnAddr": "서울특별시 강남구 세곡동 533",
-            "rapidCnt": 1,
-            "slowCnt": 1,
-            "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
-        },
-        {
-            "metro": "서울특별시",
-            "city": "강남구",
             "stnPlace": "아이파크삼성동",
             "stnAddr": "서울특별시 강남구 삼성동 영동대로 640",
             "rapidCnt": 1,
@@ -394,24 +367,6 @@
             "stnAddr": "서울특별시 강남구 역삼동 755-4",
             "rapidCnt": 1,
             "slowCnt": 3,
-            "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
-        },
-        {
-            "metro": "서울특별시",
-            "city": "강남구",
-            "stnPlace": "역삼래미안",
-            "stnAddr": "서울특별시 강남구 역삼동 757",
-            "rapidCnt": 1,
-            "slowCnt": 4,
-            "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
-        },
-        {
-            "metro": "서울특별시",
-            "city": "강남구",
-            "stnPlace": "우정에쉐르 3차",
-            "stnAddr": "서울특별시 강남구 대치동 950",
-            "rapidCnt": 0,
-            "slowCnt": 1,
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
         {
@@ -477,14 +432,5 @@
             "slowCnt": 0,
             "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
         },
-        {
-            "metro": "서울특별시",
-            "city": "강남구",
-            "stnPlace": "현대까르띠에710아파트",
-            "stnAddr": "서울특별시 강남구 역삼동 710",
-            "rapidCnt": 0,
-            "slowCnt": 2,
-            "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라"
-        }
     ]
 }
